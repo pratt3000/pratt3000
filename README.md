@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Santa is real
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="400" height="400" alt="Hello!">
+<img align="left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="200" height="200" alt="Hello!">
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=pratt3000&show_icons=true&hide_border=true)
