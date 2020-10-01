@@ -9,7 +9,7 @@
 <img align="left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="200" height="195" alt="Hello!">
 
 <a href="https://github.com/rutujak24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=dracula&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratt3000&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="https://github.com/rutujak24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratt3000&theme=dracula&langs_count=8&layout=compact" />
