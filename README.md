@@ -14,8 +14,6 @@
 <br>
 <br>
 <br>
-
-
 <a href="https://github.com/rutujak24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratt3000&theme=dracula&langs_count=8&layout=compact" />
 </a>
