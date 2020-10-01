@@ -10,8 +10,6 @@
 
 
 <p>
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ML
 - 🌱 I’m currently learning ML
 - 🤔 I’m looking for help with ML
