@@ -3,6 +3,8 @@
 -->
 ### Hi, I'm Prathamesh 👋🏾   
 ![GitHub followers](https://img.shields.io/github/followers/pratt3000?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
+
 
 <img align="left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="200" height="195" alt="Hello!">
 
