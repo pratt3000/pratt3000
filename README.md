@@ -15,8 +15,4 @@
 - 📫 How to reach me: www.linkedin.com/in/pratt3000
 - ⚡ Fun fact: Santa is real
 
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-703-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/pratt3000?label=Follow&style=social)
