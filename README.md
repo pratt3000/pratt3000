@@ -1,7 +1,7 @@
 <!--
 **pratt3000/pratt3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi, I'm Prathamesh 👋🏾💻
+### Hi, I'm Prathamesh 👋🏾
 
 <img align="left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="200" height="195" alt="Hello!">
 
