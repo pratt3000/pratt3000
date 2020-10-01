@@ -3,6 +3,7 @@
 <!--
 **pratt3000/pratt3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML
@@ -11,6 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML
 - 📫 How to reach me: www.linkedin.com/in/pratt3000
 - ⚡ Fun fact: Santa is real
+</p>
 
 <img align="right" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="400" height="400" alt="Hello!">
 
