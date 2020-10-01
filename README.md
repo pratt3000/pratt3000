@@ -7,8 +7,7 @@
 
 
 <img src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="200" height="195" alt="Hello!">
-<br>
-<br>
+
 <a href="https://github.com/rutujak24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratt3000&show_icons=true&theme=dracula&count_private=true" />
 </a>
