@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
 
 
-<img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="420" height="410" alt="Hello!">
+<img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="350" height="350" alt="Hello!">
 
 <a href="https://github.com/pratt3000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratt3000&theme=dracula&langs_count=8&layout=compact" />
