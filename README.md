@@ -14,7 +14,7 @@
 <br>
 <br>
 <a href="https://github.com/pratt3000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratt3000&show_icons=true&theme=dracula&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratt3000&show_icons=true&theme=dracula&count_private=false" />
 </a>
 
 
