@@ -7,25 +7,25 @@
 ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
 <div>
   <a href="https://github.com/pratt3000">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pratt3000">
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   </a>
   <a href="https://github.com/pratt3000">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pratt3000">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pratt3000">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a href="https://github.com/pratt3000">
   <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
   </a>
   <a href="https://github.com/prajwalpatankar">
   <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+  </a>
+  <a href="https://github.com/pratt3000">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pratt3000">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pratt3000">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </div>
 <br>
