@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
   </a>
 </div>
-<br>
-<br>
 <div>
   <img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="185" height="185" alt="Hello!">
 
