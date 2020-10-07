@@ -2,9 +2,7 @@
 **pratt3000/pratt3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi, I'm Prathamesh 👋🏾   
-![GitHub followers](https://img.shields.io/github/followers/pratt3000?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
+### Hi, I'm Prathamesh 👋🏾     ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
 <div>
   <a href="https://github.com/pratt3000">
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
