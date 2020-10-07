@@ -29,12 +29,16 @@
   </a>
 </div>
 <br>
-<div>
-  <img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="185" height="185" alt="Hello!">
-  <br>
-  <a href="https://github.com/pratt3000">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratt3000&theme=dracula&langs_count=8&layout=compact" />
-  </a>
+<div class="row">
+  <div class="col-sm-6">  
+    <img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="185" height="185" alt="Hello!">
+  </div>
+  <div class="col-sm-6">  
+      <a href="https://github.com/pratt3000">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratt3000&theme=dracula&langs_count=8&layout=compact" />
+      </a>  
+  </div>
+ 
 </div>
 <br>
 
