@@ -30,21 +30,16 @@
 </div>
 <div>
   <img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="185" height="185" alt="Hello!">
-
   <a href="https://github.com/pratt3000">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratt3000&theme=dracula&langs_count=8&layout=compact" />
   </a>
 </div>
-<br>
-<br>
+
+
 <div>
   <a href="https://github.com/pratt3000">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratt3000&show_icons=true&theme=dracula&count_private=false" />
   </a>
 </div>
-
-
-
-
 
 #### 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/pratt3000)
