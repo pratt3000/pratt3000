@@ -24,9 +24,6 @@
   <a href="https://github.com/pratt3000">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
-  <a href="https://github.com/pratt3000">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
 </div>
 <br>
 <div>
