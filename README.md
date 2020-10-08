@@ -1,7 +1,3 @@
-<!--
-**pratt3000/pratt3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### Hi, I'm Prathamesh 👋🏾    
 ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
 <div>
@@ -24,6 +20,7 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
 </div>
+
 <img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="185" height="185" alt="Hello!">
 <a href="https://github.com/pratt3000"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratt3000&theme=dracula&langs_count=8&layout=compact" />
