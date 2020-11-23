@@ -1,7 +1,7 @@
 ### Hi, I'm Prathamesh 👋🏾   
 ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
 
-<a href="https://drive.google.com/file/d/1GNMGejSipnVKYB6H9PIgNbcwWUyGpkED/view?usp=sharing">Moi Resume</a>
+<!-- <a href="https://drive.google.com/file/d/1GNMGejSipnVKYB6H9PIgNbcwWUyGpkED/view?usp=sharing">Moi Resume</a> -->
 
 <div>
   <a href="https://github.com/pratt3000">
