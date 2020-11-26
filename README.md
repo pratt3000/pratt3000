@@ -45,5 +45,3 @@
 <a href="https://github.com/pratt3000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratt3000&show_icons=true&theme=dracula&count_private=false" />
 </a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pratt3000)]
