@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
 
 <!-- <a href="https://drive.google.com/file/d/1GNMGejSipnVKYB6H9PIgNbcwWUyGpkED/view?usp=sharing">Moi Resume</a> -->
-
+<a href="https://www.kaggle.com/pratt3000">Follow me on Kaggle!</a>
 <div>
   <a href="https://github.com/pratt3000">
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
