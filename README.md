@@ -1,4 +1,4 @@
-![bg](red)
+![bg](#39ffaf)
 
 ### Hi, I'm Prathamesh 👋🏾   
 ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
