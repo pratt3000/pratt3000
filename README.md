@@ -1,6 +1,8 @@
 ### Hi, I'm Prathamesh 👋🏾   
 ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
+---
 
+---
 <!-- <a href="https://drive.google.com/file/d/1GNMGejSipnVKYB6H9PIgNbcwWUyGpkED/view?usp=sharing">Moi Resume</a> -->
 <a href="https://www.kaggle.com/pratt3000">Follow me on Kaggle!</a>
 <div>
@@ -24,7 +26,9 @@
   </a>
 </div>
 <br>
+---
 <img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="185" height="185" alt="Hello!">
+
 <br>
 <br>
 <br>
@@ -45,3 +49,7 @@
 <a href="https://github.com/pratt3000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratt3000&show_icons=true&theme=dracula&count_private=false" />
 </a>
+<!-- ### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/> -->
