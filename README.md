@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-pratt3000&color=blueviolet)
 ---
 
----
 <!-- <a href="https://drive.google.com/file/d/1GNMGejSipnVKYB6H9PIgNbcwWUyGpkED/view?usp=sharing">Moi Resume</a> -->
 <a href="https://www.kaggle.com/pratt3000">Follow me on Kaggle!</a>
 <div>
@@ -26,7 +25,6 @@
   </a>
 </div>
 <br>
----
 <img align = "left" src="https://raw.githubusercontent.com/pratt3000/pratt3000/master/sher.gif"  width="185" height="185" alt="Hello!">
 
 <br>
